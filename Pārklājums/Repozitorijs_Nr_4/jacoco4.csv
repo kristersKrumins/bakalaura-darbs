@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+TechnicalAssesment,com.oaitsetseleng.techassesment.controllers,BillController,48,189,7,13,13,34,5,12,1,6
+TechnicalAssesment,com.oaitsetseleng.techassesment.views,BillView,5,3,0,0,1,1,1,1,1,1
+TechnicalAssesment,com.oaitsetseleng.techassesment.models,Person,0,55,0,0,0,23,0,10,0,10
+TechnicalAssesment,com.oaitsetseleng.techassesment.models,Items,16,27,0,0,8,10,4,5,4,5
+TechnicalAssesment,com.oaitsetseleng.techassesment.models,Bill,0,56,0,0,0,24,0,12,0,12
+TechnicalAssesment,com.oaitsetseleng.techassesment,TechnicalAssesmentApplication,5,3,0,0,2,1,1,1,1,1
+,,,,,,,24,93,11,41,7,35
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,79%,,,,,83%

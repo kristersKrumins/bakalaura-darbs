@@ -1,0 +1,17 @@
+ ,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+retail,com.retial.app.application.controller,BillController,12,0,0,0,2,0,2,0,2,0
+retail,com.retial.app.domain.entity,User,183,31,38,0,2,6,25,9,6,9
+retail,com.retial.app.domain.entity,User.UserBuilder,45,0,0,0,1,0,7,0,7,0
+retail,com.retial.app.domain.entity,Item.ItemBuilder,45,0,0,0,1,0,7,0,7,0
+retail,com.retial.app.domain.entity,Item,151,42,28,0,1,7,20,9,6,9
+retail,com.retial.app.domain.entity,Bill,109,42,22,2,2,9,18,8,7,7
+retail,com.retial.app.domain.entity,Bill.BillBuilder,27,0,0,0,1,0,5,0,5,0
+retail,com.retial.app,RetailApplication,8,0,0,0,3,0,2,0,2,0
+retail,com.retial.app.domain.enums,UserType,0,21,0,0,0,2,0,1,0,1
+retail,com.retial.app.domain.service,BillService,0,66,1,7,0,15,1,7,0,3
+,,,,,,,,,,,42,29
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,41%,,
